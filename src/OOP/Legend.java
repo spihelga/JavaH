@@ -19,7 +19,7 @@ public class Legend {
 
         zelda.prindiMituEluAlles();
 
-        kollilElusid = 55;
+        kollilElusid = 57;
         zelda.kaklusKolliga(kollilElusid);
 
         zelda.prindiKasOnElus();
