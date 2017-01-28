@@ -54,7 +54,7 @@ public class PixelChaser extends Application {
                     ruut.setScaleX(0);
                     ruut.setScaleY(0);
                 }
-                ruut.setId("clicked"); //Commit 1
+                ruut.setId("clicked");
             });
         }
     }
